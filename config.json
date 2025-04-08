@@ -1,5 +1,5 @@
 {
-  "botToken": "",
+  "botToken": "EAAGNO4a7r2wBO7ZA0K5yegiXyye4BWrVLQbmZCFtw5RnBkJyxVS9PQ1ZABq0TdSH1wSXyAGlQXUUIYBrQiRES8wJE9SvNmGtrjmfgRDP0EL6ZC8fdAZAnUdvZAZAOkHFtXZBVBZAx8JTnKdrGYten1lvWGjcnS1SDZBiZCNs8wZBKZASmvjbQZCwNkkZA78QzfXn3AO9lV6hwZDZD",
   "botPrefix": "/",
   "DATABASE": {
     "sqlite": {
@@ -14,9 +14,9 @@
     }
   },
   "ADMIN_IDS": [
-    1472439428
+    61554405703021
   ],
-  "OWNER_ID": 1472439428,
+  "OWNER_ID": 61554405703021,
   "skip": {
     "events": ["no"],
     "commands": ["no"]
